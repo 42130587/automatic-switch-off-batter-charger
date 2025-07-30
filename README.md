@@ -1,0 +1,1 @@
+# automatic-switch-off-batter-charger
